@@ -28,8 +28,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint src/**/*.js*",
-    "docz:dev": "docz dev",
-    "docz:build": "docz build"
+    "docz": "docz dev"
   },
   "eslintConfig": {
     "extends": "react-app"
