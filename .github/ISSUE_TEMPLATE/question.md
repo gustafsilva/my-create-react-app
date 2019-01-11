@@ -1,6 +1,6 @@
 ---
 name: Question 🤔
-about: Usage question or discussion about TodoApp.
+about: Usage question or discussion.
 ---
 
 ## Summary
